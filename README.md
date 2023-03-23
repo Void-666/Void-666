@@ -1,4 +1,5 @@
 ![Bingus attack](https://media.tenor.com/n76R71EMdDYAAAAM/bingus-floppa.gif)
+![Bingus is so cute](https://media.tenor.com/uU_kvtDakbcAAAAd/bingus-cat.gif)
 # :microscope:Currently working on GDPS demonlist and GDPS bot
 ```diff
 +Silent
