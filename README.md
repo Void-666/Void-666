@@ -1,4 +1,4 @@
-![sandwich with cat](https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif)
+![Bingus attack](https://media.tenor.com/n76R71EMdDYAAAAM/bingus-floppa.gif)
 # :microscope:Currently working on GDPS demonlist and GDPS bot
 ```diff
 +Silent
