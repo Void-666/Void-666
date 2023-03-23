@@ -1,12 +1,14 @@
 <img src="https://media.tenor.com/n76R71EMdDYAAAAM/bingus-floppa.gif">
 <img src="https://media.tenor.com/uU_kvtDakbcAAAAd/bingus-cat.gif">
 # :microscope:Currently working on GDPS demonlist and GDPS bot
+
 ```diff
 +Silent
 -Void
 ```
 **Currently learning:**
 C++
+
 ```cpp
 #indclude <iostream>
 int main()
@@ -15,16 +17,19 @@ cout << "Hello world!";
 }
 ```
 PHP
+
 ```php
 <?php
 echo "Hello world!";
 ?>
 ```
 Python
+
 ```py
 print("Hello world!")
 ```
 Node.js
+
 ```js
 const http = require("http");
 
