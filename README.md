@@ -1,6 +1,4 @@
-<img src="https://media.tenor.com/n76R71EMdDYAAAAM/bingus-floppa.gif">
-
-<img src="https://media.tenor.com/uU_kvtDakbcAAAAd/bingus-cat.gif">
+<img src="https://media.tenor.com/EEjfPJj4QnsAAAAd/cat-meow.gif">
 
 # :microscope:Currently working on GDPS demonlist and GDPS bot
 
